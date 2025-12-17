@@ -66,7 +66,6 @@ Bot ini memungkinkan admin membuat tugas, member mengambil tugas, dan mendapatka
 
 ## 📸 Preview
 
-*(Kamu bisa taruh screenshot bot atau contoh gambar leaderboard.png di sini nanti)*
-
+https://media.discordapp.net/attachments/1228143822509178929/1450662832050929816/leaderboard.png?ex=69435a8b&is=6942090b&hm=31987a111cb150165454cf230bb6f615cf1d6fd0932bcf82a638ba8057d2b18b&=&format=webp&quality=lossless&width=997&height=1139
 ---
-Dibuat dengan ❤️ oleh [Nama Kamu]
+Dibuat dengan ❤️ oleh Suni
