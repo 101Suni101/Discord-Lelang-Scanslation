@@ -1,0 +1,9 @@
+version: '3.8'
+
+services:
+  bot-lelang:
+    container_name: bot-discord-task
+    build: .
+    restart: always  
+    environment:
+      - TZ=Asia/Jakarta
